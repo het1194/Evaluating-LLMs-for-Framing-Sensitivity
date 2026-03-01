@@ -8,3 +8,4 @@ The project is organized into three primary components:
 1. **Base Dataset** (Dataset_Items.docx): Contains the 50 original base items. Includes the 6 specific framing variants for each item.
 2. **Experimental Input** (Shuffled Dataset Prompted to Model.xlsx): The randomized/shuffled version of the full dataset that was fed into the models to prevent order bias.
 3. **Model Outputs** (output_of_models.xlsx): The raw and processed responses from the four models tested.
+4. **Model Evaluation & Statistical Analysis** (metrics.py & stat_test.ipynb): This captures both descriptive metrics and inferential tests run on the output of models
