@@ -10,3 +10,4 @@ The project is organized into three primary components:
 3. **Model Outputs** (output_of_models.xlsx): The raw and processed responses from the four models tested.
 4. **Model Evaluation & Statistical Analysis** (metrics.py & stat_test.ipynb): This captures both descriptive metrics and inferential tests run on the output of models
 5. **Annotation Guideline** (Annotation Guidelines for Frame Consistency Evaluation.pdf): This is a documentation of the guidelines followed by 3 independent annotators who analyzed the dataset to validate it.
+6. **Annotation Data** (Annotation Data.xlsx): Contains the data of the scores assigned by all three annotators according to the guideline
